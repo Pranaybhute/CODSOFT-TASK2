@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This project is a simple and responsive landing page created using HTML, CSS, and basic JavaScript for interactive elements. It showcases services like web development, graphic design, and digital marketing, with a dropdown contact section.
+This project is a simple and responsive landing page created using HTML and CSS for interactive elements. It showcases services like web development, graphic design, and digital marketing, with a dropdown contact section.
 
 ## Features
 
